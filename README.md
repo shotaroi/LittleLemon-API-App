@@ -13,7 +13,7 @@ API for an imaginary restaurant "Little Lemon". Little Lemon's management wants 
   
 Users not assigned to a group will be considered customers.
 
-# Requirements
+## Requirements
 Managers can: 
 - Log in
 - update the item of the day
